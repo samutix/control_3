@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Control#3</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="op1">Rojo</string>
+    <string name="tac">Tacto</string>
+    <string name="op2">Verde</string>
+    <string name="texto">Ingresar texto</string>
+    <string name="op3">Azul</string>
+    <string name="submit">Submit</string>
+    <string name="valor_entregado">Valor entregado</string>
+    <string name="textview">TextView</string>
+    <string name="opcion_seleccionada">Opcion Seleccionada</string>
+    <string name="formu">Datos</string>
+    <string name="nombre_">Nombre:</string>
+    <string name="switch_">Switch:</string>
+    <string name="op">Selecciono</string>
+    <string name="opcion_elegida_">Opcion elegida:</string>
+
+</resources>
